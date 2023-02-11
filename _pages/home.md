@@ -7,21 +7,25 @@ excerpt: "为开发者提供最新、最有价值的技术知识文档，每个�
 
 feature_rows:
   - title: "Rust"
-    excerpt: "Rust"
+    excerpt: "Rust知识文档"
     url: "https://rust.jike.wiki/"
     img_path: "project/rust.png"
     img_alt: "Rust"
   - title: "Kubernetes"
-    excerpt: "Kubernetes"
+    excerpt: "k8s入门与进阶实战"
     url: "https://k8s.jike.wiki/"
     img_path: "project/k8s.png"
     img_alt: "Kubernetes"
   - title: "Git"
-    excerpt: "Git."
+    excerpt: "git从基础到协同开发实战"
     url: "https://git.jike.wiki/"
     img_path: "project/git.png"
     img_alt: “Git"
 ---
+
+## 持续更新
+
+文档持续更新中，欢迎大家提交文档贡献！
 
 ## 贡献方式
 

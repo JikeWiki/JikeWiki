@@ -21,12 +21,12 @@
 title: 极客wiki
 email: phy.xyz@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  极客wiki，一个面向开发者的wiki网站。
+  帮助开发者获得有价值的技术经验。
 logo: assets/images/icon.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://jike.wiki" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username:  JikeWiki
 
 # Build settings
 theme: "lone-wolf-theme" # minima
@@ -52,3 +52,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+permalink: /:categories/:title/
+paginate: 10
+paginate_path: "/blog/page/:num/"
+timezone: "Asia/Shanghai"
+
+include:
+  - _pages

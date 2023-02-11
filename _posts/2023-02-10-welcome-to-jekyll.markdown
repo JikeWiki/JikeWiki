@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "欢迎来到极客wiki！"
 date:   2023-02-10 02:15:12 +0800
-categories: jekyll update
+categories: 消息
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+欢迎来到极客wiki！
 
-`YEAR-MONTH-DAY-title.MARKUP`
+作为一个专注于开发者技术知识的文档网站，极客wiki 努力使得每个读者都能够以最佳的技术资讯方式体验技术信息。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+极客wiki会定期更新有价值的技术信息，提供与国内外开发者通用的技术信息，包括：
 
-Jekyll also offers powerful support for code snippets:
+热门开发领域的前沿文章
+前沿行业领域的最佳实践
+最新的开发语言、开发工具及其框架的研究
+技术趋势的研究及分析
+同时，我们也欢迎所有用户可以通过git提交文档贡献自己的技术经验，分享给用户。相信这样在信息交流互动中，每一位读者都可以便利地获取有价值的，独特的技术知识，从而更好地拓展自己的技术面貌。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+本文就是欢迎您的到来，祝您在这里安心学习，成功掌控新技术！

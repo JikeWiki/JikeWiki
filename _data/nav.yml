@@ -1,0 +1,33 @@
+# header links
+header:
+  - title: "博客"
+    url: "/blog/"
+    description: "本站源码"
+  - title: "关于"
+    url: "/about/"
+    description: "关于本站"
+
+# footer links
+footer:
+  - owner: "jike.wiki"
+    url: "https://jike.wiki"
+    description: "极客wiki"
+    bio: "帮助开发者获得有价值的技术经验"
+    address: "Guangzhou, GD, China."
+  - social:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/JikeWiki"
+    - label: "YouTube"
+      icon: "fab fa-brands fa-youtube"
+      url: "https://www.youtube.com/channel/UCOoeIvXoPpuI-YiCBH_BgJw"
+    - label: "BiliBili"
+      icon: "fab fas fa-video"
+      url: "https://space.bilibili.com/172353353"
+  - feed:
+    - label: "网站地图"
+      icon: "fas fa-sitemap"
+      url: "/sitemap.xml"
+    - label: "RSS订阅"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"

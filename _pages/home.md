@@ -33,7 +33,7 @@ feature_rows:
 
 Git贡献文档流程：
 
-* 在你的个人远端仓库 fork 极客wiki子域名站点对应的文档仓库（如 https://rust.jike.wiki 子站，该站是rust基础知识文档，对应仓库地址为: https://github.com/JikeWiki/rust）
+* 在你的个人远端仓库 fork 极客wiki子站对应的文档仓库（如 <https://rust.jike.wiki> 子站，该站是rust基础知识文档，对应仓库地址为: <https://github.com/JikeWiki/rust>）
 * 在你的本地 PC 上 clone 你 fork 之后的文档仓库
 * 从 master（或main） 分支创建新的分支来保存你的变更
 * 使用你喜欢的编辑器，在你的分支中编辑和提交你的文档

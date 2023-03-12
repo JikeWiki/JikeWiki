@@ -17,7 +17,7 @@ footer:
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JikeWiki.github.io"
+      url: "https://github.com/JikeWiki/JikeWiki.github.io"
     - label: "YouTube"
       icon: "fab fa-brands fa-youtube"
       url: "https://www.youtube.com/channel/UCOoeIvXoPpuI-YiCBH_BgJw"

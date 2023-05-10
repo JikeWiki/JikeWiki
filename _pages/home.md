@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: "极客wiki"
+title: "首页"
 excerpt: "为开发者提供最新、最有价值的技术知识文档，每个人都可以通过git提交文档贡献!"
 
 feature_rows:
@@ -44,11 +44,11 @@ feature_rows:
 
 ## 贡献方式
 
-极客wiki是一个提供丰富知识文档库的wiki网站，任何人可以通过 Git 对文档提交贡献，方便其他人获得校正后的文档。
+webtech.wiki是一个提供丰富知识文档库的wiki网站，任何人可以通过 Git 对文档提交贡献，方便其他人获得校正后的文档。
 
 Git贡献文档流程：
 
-* 在你的个人远端仓库 fork 极客wiki子站对应的文档仓库（如 <https://jike.wiki/rust> 子模块，该模块是rust基础知识文档，对应仓库地址为: <https://github.com/JikeWiki/rust>）
+* 在你的个人远端仓库 fork 极客wiki子站对应的文档仓库（如 <https://webtech.wiki/rust> 子模块，该模块是rust基础知识文档，对应仓库地址为: <https://github.com/webtechwiki/rust>）
 * 在你的本地 PC 上 clone 你 fork 之后的文档仓库
 * 从 master（或main） 分支创建新的分支来保存你的变更
 * 使用你喜欢的编辑器，在你的分支中编辑和提交你的文档

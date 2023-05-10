@@ -11,13 +11,13 @@ header:
 footer:
   - owner: "jike.wiki"
     url: "https://webtech.wiki"
-    description: "极客wiki"
+    description: "webtech.wiki"
     bio: "帮助开发者获得有价值的技术经验"
     address: "Guangzhou, GD, China."
   - social:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JikeWiki"
+      url: "https://github.com/webtechwiki"
     - label: "YouTube"
       icon: "fab fa-brands fa-youtube"
       url: "https://www.youtube.com/channel/UCOoeIvXoPpuI-YiCBH_BgJw"

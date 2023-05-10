@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 
-title: "首页"
+title: "webtech.wiki"
 excerpt: "为开发者提供最新、最有价值的技术知识文档，每个人都可以通过git提交文档贡献!"
 
 feature_rows:

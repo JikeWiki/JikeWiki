@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 极客wiki
+title: webtech.wiki
 email: phy.xyz@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   帮助开发者获得有价值的技术经验。
 logo: assets/images/icon.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jike.wiki" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  JikeWiki
+url: "https://webtech.wiki" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: "phy_xyz"
+github_username:  webtechwiki
 
 # Build settings
 theme: "lone-wolf-theme" # minima

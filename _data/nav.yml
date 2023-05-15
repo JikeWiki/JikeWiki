@@ -9,7 +9,7 @@ header:
 
 # footer links
 footer:
-  - owner: "jike.wiki"
+  - owner: "webtech.wiki"
     url: "https://webtech.wiki"
     description: "webtech.wiki"
     bio: "帮助开发者获得有价值的技术经验"
